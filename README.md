@@ -1,7 +1,3 @@
-Here’s a polished and well-structured version of your content, ready to be used as a `README.md` file for your GitHub project:
-
----
-
 # 📈 Stock Prediction Using KNN, Naive Bayes, and Logistic Regression
 
 ## 📄 Abstract
@@ -77,13 +73,6 @@ All models follow a common training pipeline:
 
 ---
 
-## 🚀 Future Directions
-- **Deep Learning**: Apply RNNs or LSTMs for sequential modeling.
-- **Real-Time Predictions**: Extend system for live stock market insights.
-- **Feature Engineering**: Incorporate external data like economic indicators and sentiment analysis.
-
----
-
 ## ✅ Conclusion
 This project showcased the potential of **machine learning in stock market analysis**. Among the models used, each had its strengths and limitations. Going forward, incorporating more complex models and diverse datasets will enhance predictive power and real-world applicability.
 
@@ -93,6 +82,3 @@ This project showcased the potential of **machine learning in stock market analy
 - [TradingView](https://www.tradingview.com/)
 - [Binance](https://www.binance.com/)
 
----
-
-Let me know if you'd like this converted to `.md` format or directly pushed to your GitHub repo!
